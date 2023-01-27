@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/manuelgalvanjau/react-Hola-mundo/tree/master/static/css/main.d2e25679.css",
-    "main.js": "/manuelgalvanjau/react-Hola-mundo/tree/master/static/js/main.7fcfa1f7.js",
-    "index.html": "/manuelgalvanjau/react-Hola-mundo/tree/master/index.html",
-    "main.d2e25679.css.map": "/manuelgalvanjau/react-Hola-mundo/tree/master/static/css/main.d2e25679.css.map",
-    "main.7fcfa1f7.js.map": "/manuelgalvanjau/react-Hola-mundo/tree/master/static/js/main.7fcfa1f7.js.map"
+    "main.css": "/react-Hola-mundo/static/css/main.d2e25679.css",
+    "main.js": "/react-Hola-mundo/static/js/main.7fcfa1f7.js",
+    "index.html": "/react-Hola-mundo/index.html",
+    "main.d2e25679.css.map": "/react-Hola-mundo/static/css/main.d2e25679.css.map",
+    "main.7fcfa1f7.js.map": "/react-Hola-mundo/static/js/main.7fcfa1f7.js.map"
   },
   "entrypoints": [
     "static/css/main.d2e25679.css",
